@@ -23,5 +23,5 @@ for y in mylist[0]:
 
 #Output
 '''
-Private, Public IP, InstanceType, InstanceState, KeyName, InstanceName, InstanceIDs: 10.7.0.54 | 13.59.6.92| r5.xlarge | running | terraform-1521082690-region | ImageEngine-frontend-green | i-0927d7e1ef08c7cd7
+Private, Public IP, InstanceType, InstanceState, KeyName, InstanceName, InstanceIDs: 14.7.0.54 | 19.25.6.92| r5.xlarge | running | madhu-key | madhu-green-instance | i-gedgggg08c7cd7
 '''
